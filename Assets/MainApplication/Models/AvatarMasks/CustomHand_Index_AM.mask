@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: CustomHand_Index_AM
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Forearm
+    m_Weight: 0
+  - m_Path: Hand
+    m_Weight: 0
+  - m_Path: Root
+    m_Weight: 0
+  - m_Path: Root/R_Forearm
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Daumen_01_IK_jnt
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Daumen_01_IK_jnt/R_Daumen_Base_jnt
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Daumen_01_IK_jnt/R_Daumen_Base_jnt/R_Daumen_Mid_jnt
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Daumen_01_IK_jnt/R_Daumen_Base_jnt/R_Daumen_Mid_jnt/R_Daumen_End_jnt
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_kl_Finger_Palm_Base_jnt_3
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_kl_Finger_Palm_Base_jnt_3/R_kl_Finger_Base_jnt_3
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_kl_Finger_Palm_Base_jnt_3/R_kl_Finger_Base_jnt_3/R_kl_Finger_Mid_jnt_3
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_kl_Finger_Palm_Base_jnt_3/R_kl_Finger_Base_jnt_3/R_kl_Finger_Mid_jnt_3/R_kl_Finger_Top_jnt_3
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_kl_Finger_Palm_Base_jnt_3/R_kl_Finger_Base_jnt_3/R_kl_Finger_Mid_jnt_3/R_kl_Finger_Top_jnt_3/R_kl_Finger_End_jnt_3
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Mittelfinger_Palm_Base_jnt_1
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Mittelfinger_Palm_Base_jnt_1/R_Mittelfinger_Base_jnt_1
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Mittelfinger_Palm_Base_jnt_1/R_Mittelfinger_Base_jnt_1/R_Mittelfinger_Mid_jnt_1
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Mittelfinger_Palm_Base_jnt_1/R_Mittelfinger_Base_jnt_1/R_Mittelfinger_Mid_jnt_1/R_Mittelfinger_Top_jnt_1
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Mittelfinger_Palm_Base_jnt_1/R_Mittelfinger_Base_jnt_1/R_Mittelfinger_Mid_jnt_1/R_Mittelfinger_Top_jnt_1/R_Mittelfinger_End_jnt_1
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Ringfinger_Palm_Base_jnt_2
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Ringfinger_Palm_Base_jnt_2/R_Ringfinger_Base_jnt_2
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Ringfinger_Palm_Base_jnt_2/R_Ringfinger_Base_jnt_2/R_Ringfinger_Mid_jnt_2
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Ringfinger_Palm_Base_jnt_2/R_Ringfinger_Base_jnt_2/R_Ringfinger_Mid_jnt_2/R_Ringfinger_Top_jnt_2
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Ringfinger_Palm_Base_jnt_2/R_Ringfinger_Base_jnt_2/R_Ringfinger_Mid_jnt_2/R_Ringfinger_Top_jnt_2/R_Ringfinger_End_jnt_2
+    m_Weight: 0
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Zeigefinger_Palm_Base_jnt
+    m_Weight: 1
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Zeigefinger_Palm_Base_jnt/R_Zeigefinger_Base_jnt
+    m_Weight: 1
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Zeigefinger_Palm_Base_jnt/R_Zeigefinger_Base_jnt/R_Zeigefinger_Mid_jnt
+    m_Weight: 1
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Zeigefinger_Palm_Base_jnt/R_Zeigefinger_Base_jnt/R_Zeigefinger_Mid_jnt/R_Zeigefinger_Top_jnt
+    m_Weight: 1
+  - m_Path: Root/R_Forearm/R_Wrist/R_Wrist_02_jnt/R_Zeigefinger_Palm_Base_jnt/R_Zeigefinger_Base_jnt/R_Zeigefinger_Mid_jnt/R_Zeigefinger_Top_jnt/R_Zeigefinger_End_jnt
+    m_Weight: 1
