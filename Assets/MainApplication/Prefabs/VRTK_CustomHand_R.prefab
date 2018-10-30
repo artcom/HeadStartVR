@@ -1281,7 +1281,7 @@ MonoBehaviour:
     controllerType: 3
     position: {x: 0, y: 0, z: -0.175}
     rotation: {x: 40, y: 0, z: 72}
-    scale: {x: 1, y: 1, z: 1}
+    scale: {x: -1, y: -1, z: 1}
   - loadedSDKSetup: {fileID: 0}
     controllerType: 8
     position: {x: -0.0135, y: 0.0475, z: -0.165}
