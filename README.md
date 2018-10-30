@@ -1,3 +1,4 @@
+![Title](Head_Start_VR_02.jpg)
 # HeadStartVR
 This repository holds everything you need to headstart your own VR project:
 * VRTK
@@ -17,26 +18,34 @@ This repository holds everything you need to headstart your own VR project:
 ### Unity Project Organisation
 
 Please keep the project clean and tidy, so noone gets confused to much!
-The project should be organised as follows:
+Feel free to add additional basic functionality as feature folder.
+The project should be organised as shown below:
+
 * Assets
-* MainApplication
-* Animations
-* Models
-* Materials
-* Scripts
-* Scenes
-* Feature1
-* Animations
-* Models
-* Materials
-* Scripts
-* Scenes
-* Feature2
-* Animations
-* Models
-* Materials
-* Scripts
-* Scenes
+    * MainApplication
+        * Animations
+        * Models
+        * Materials
+        * Scripts
+        * Scenes
+    * ObjectGrabbing
+        * Animations
+        * Models
+        * Materials
+        * Scripts
+        * Scenes
+    * SimulateAR
+        * Animations
+        * Models
+        * Materials
+        * Scripts
+        * Scenes
+    * FeatureXYZ
+        * Animations
+        * Models
+        * Materials
+        * Scripts
+        * Scenes
 * ProjectSettings
 * UnityPackages
 
