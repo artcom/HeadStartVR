@@ -7,13 +7,15 @@ This repository holds everything you need to headstart your own VR project:
 * basic grabbing of objects
 * highlighting on touch and near touch
 * bezier-pointer teleporter
-** where you can toggle between dash and blink teleporter.
+    * where you can toggle between dash and blink teleporter.
+* Simulate AR with a tablet
+    * An additional camera on the tablet renders 'Everything' + the AR Layer on a rendertexture, which acts as tablet display
 
 ## Software
 * UnityHub
 * Unity 2018.2.6f1
 * VRTK 3.2.1
-* SteamVR Plugin
+* SteamVR Plugin 1.2.3
 
 ### Unity Project Organisation
 
