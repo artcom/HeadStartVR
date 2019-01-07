@@ -10,6 +10,7 @@ This repository holds everything you need to headstart your own VR project:
     * where you can toggle between dash and blink teleporter.
 * Simulate AR with a tablet
     * An additional camera on the tablet renders 'Everything' + the AR Layer on a rendertexture, which acts as tablet display
+* Using the Vive Trackers and have a symbol of it
 
 ## Software
 * UnityHub
@@ -26,21 +27,25 @@ The project should be organised as shown below:
 * Assets
     * MainApplication
         * Animations
-        * Models
         * Materials
+        * Models
         * Scripts
         * Scenes
     * ObjectGrabbing
         * Animations
-        * Models
         * Materials
+        * Models
         * Scripts
         * Scenes
     * SimulateAR
         * Animations
-        * Models
         * Materials
+        * Models
         * Scripts
+        * Scenes    
+    * ViveTracker
+        * Materials
+        * Models
         * Scenes
     * FeatureXYZ
         * Animations
@@ -50,6 +55,31 @@ The project should be organised as shown below:
         * Scenes
 * ProjectSettings
 * UnityPackages
+
+#
+
+## Documentation & Getting Started
+
+Just clone this project to get started immediately with your VR project. You can rename it to transform it in your own project or just demo functionalities. To copy a certain feature duplicate the scene.
+This head starts your development by the following features:
+
+### MainApplication
+
+The MainApplication folder holds two features inside, basic bezier curve teleportation and custom hands.
+
+### ObjectGrabbing
+
+This scene gives you an example on how to perform basic object grabbing, touching and using with a simple cube on a table.
+
+### SimulateAR
+
+The SimulateAR scene contains a tablet on a table which gives you to see the world in another eye. The camera on the tablet renders all additional objects which are tagged by the AR layer.
+
+### ViveTracker
+
+The ViveTracker scene increments the SteamVR Controller attribute on the cameraRig by +1 so the GameObject HTC_Vive_Tracker gets tracked and recognized as a vive tracker as long as it has the Steam VR_Tracked Object Script attached to it.
+
+#
 
 Read and follow those rules [Unity Project Organisation](https://unity3d.com/de/learn/tutorials/topics/tips/large-project-organisation).
 
